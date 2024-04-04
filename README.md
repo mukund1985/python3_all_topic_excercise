@@ -1,4 +1,4 @@
-# python3_all_topic_excercise
+# Python One Stop Shop for Practice
 
 This repository is for someone who is looking to practice only codes related to below topics -
 
